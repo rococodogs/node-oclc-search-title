@@ -1,5 +1,7 @@
 # node-oclc-search-title
 
+[![Build Status](https://travis-ci.org/malantonio/node-oclc-search-title.svg?branch=master)](https://travis-ci.org/malantonio/node-oclc-search-title)
+
 Uses OCLC's [Search API][search-api] to retrieve an item's title based on its
 OCLC number. This saves you the headache of parsing through XML to retrieve a
 title.
