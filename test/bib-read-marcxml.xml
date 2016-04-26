@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a22000008a 4500</leader>
+    <controlfield tag="001">82671871</controlfield>
+    <controlfield tag="008">070202s2007    enka          001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+        <subfield code="a">  2007278140</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+        <subfield code="a">9780596529260 (pbk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+        <subfield code="a">0596529260 (pbk.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+        <subfield code="a">Richardson, Leonard,</subfield>
+        <subfield code="d">1979-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+        <subfield code="a">RESTful web services /</subfield>
+        <subfield code="c">Leonard Richardson and Sam Ruby.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+        <subfield code="a">Farnham :</subfield>
+        <subfield code="b">O'Reilly,</subfield>
+        <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="263">
+        <subfield code="a">200705</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+        <subfield code="a">xxiv, 419 p. :</subfield>
+        <subfield code="b">ill. ;</subfield>
+        <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+        <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+        <subfield code="a">Web services.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+        <subfield code="a">Ruby, Sam.</subfield>
+    </datafield>
+</record>

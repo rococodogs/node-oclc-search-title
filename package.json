@@ -1,0 +1,29 @@
+{
+  "name": "oclc-search-title",
+  "version": "1.0.0",
+  "description": "get an item's title from its OCLC number",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && npm run tests",
+    "tests": "tape test/*.js"
+  },
+  "keywords": [],
+  "author": "Adam Malantonio <adam.malantonio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-xml": "1.0.2",
+    "through2": "2.0.1"
+  },
+  "devDependencies": {
+    "standard": "6.0.8",
+    "tape": "4.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malantonio/node-oclc-search-title"
+  }
+}
